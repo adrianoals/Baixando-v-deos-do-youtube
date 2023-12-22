@@ -10,7 +10,6 @@ Este projeto é um simples YouTube Downloader que permite baixar vídeos e áudi
   - **audio**: Módulo para download de áudios.
     - **main.py**: Arquivo principal para executar o download de áudios.
 - **utils**: Pasta com utilitários que exploram funções adicionais da biblioteca `pytube`.
-- **downloads**: Pasta onde os arquivos baixados são armazenados.
 - **requirements.txt**: Arquivo que lista as dependências necessárias para executar o projeto.
 
 ## Como Usar
@@ -43,11 +42,4 @@ Este projeto é um simples YouTube Downloader que permite baixar vídeos e áudi
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests ou propor melhorias.
 
-## Autor
-
-Seu Nome
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
